@@ -28,12 +28,12 @@ This repository currently contains template files to get started with web develo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mansisingh-b/pivot-aide.git
+   git clone https://github.com/Mansisingh-b/askmeai.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd pivot-aide
+   cd askme ai 
    ```
 
 3. Open `index.html` in your web browser to view the local version
@@ -56,7 +56,7 @@ To replace these template files with your actual project code:
 ## Live Deployment
 
 The live version of this project is deployed at:
-**[https://pivot-aide.lovable.app](https://pivot-aide.lovable.app)**
+**[https://askmeai.lovable.app/](https://askmeai.lovable.app/)**
 
 Visit the live site to see the production version of Pivot Aide in action.
 
