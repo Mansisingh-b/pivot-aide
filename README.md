@@ -1,6 +1,6 @@
 # Pivot Aide
 
-🔗 **Live Project:** [https://pivot-aide.lovable.app](https://pivot-aide.lovable.app)
+🔗 **Live Project:** [https://askmeai.lovable.app](https://askmeai.lovable.app/))
 
 ## About
 
